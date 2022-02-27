@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @raktimde07
-- 👀 I’m interested in Full Stack App Development
+- 👋 Hi, I’m Raktim.
+- 👀 I’m interested in Full Stack App Development, and I am do give a shit about how my App performs in real world scenarios.
 - 🌱 I’m currently learning how to develop an Application from scratch to deployment.
 - 📫 You can reach me via my email : raktim12346@gmail.com
 
