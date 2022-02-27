@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raktimde07
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Native Android Development and using Android Studio and Java, looking forward to learn Kotlin.
+- 👀 I’m interested in Full Stack App Development
+- 🌱 I’m currently learning how to develop an Application from scratch to deployment.
 - 📫 You can reach me via my email : raktim12346@gmail.com
 
 <!---
